@@ -10,6 +10,7 @@ FinIntel
 AI-Powered Learning Companion (Kairos)  
 MovieMate  
 ClauseAI  
+toshokAI
 ScoreVision  
 Mindfulness Chatbot  
 Brainrot Chat Bot  
