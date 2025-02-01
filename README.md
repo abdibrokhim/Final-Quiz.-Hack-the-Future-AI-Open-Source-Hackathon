@@ -15,12 +15,12 @@ https://github.com/abdibrokhim/Final-Quiz.-Hack-the-Future-AI-Open-Source-Hackat
 
 1. Go to the [quiz.md](https://github.com/abdibrokhim/Final-Quiz.-Hack-the-Future-AI-Open-Source-Hackathon/blob/main/quiz.md).
 
-2. Replace the placeholders `<project_name>` with your guesses.
+2. Replace the placeholders `<project_name>` with your guesses. Head over [Project Gallery](https://chillguy.devpost.com/project-gallery)
 
-3. Create *New Issue*.
+3. Create *New Issue*. [Create Now](https://github.com/abdibrokhim/Final-Quiz.-Hack-the-Future-AI-Open-Source-Hackathon/issues/new?template=Blank+issue)
 
 Title: `<your_name>` Quiz Submission.
 
 Description: I'm done with the quiz! 🚀. Then below *copy/paste* the updated list.
 
-For example: [here](https://github.com/abdibrokhim/Final-Quiz.-Hack-the-Future-AI-Open-Source-Hackathon/issues/1#issue-2825213252)
+Confusing? Here's an example: [Click Me](https://github.com/abdibrokhim/Final-Quiz.-Hack-the-Future-AI-Open-Source-Hackathon/issues/1#issue-2825213252)
