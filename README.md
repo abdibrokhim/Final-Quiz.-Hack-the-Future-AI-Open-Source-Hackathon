@@ -27,6 +27,6 @@ Confusing? Here's an example: [Click Me](https://github.com/abdibrokhim/Final-Qu
 
 > to help you out, here's a list of all accepted projects: [Click Me](https://github.com/abdibrokhim/Final-Quiz.-Hack-the-Future-AI-Open-Source-Hackathon/blob/main/tip.md)
 
-!update. quiz winners announced. check out the [quiz-winners.md](https://github.com/abdibrokhim/Final-Quiz.-Hack-the-Future-AI-Open-Source-Hackathon/blob/main/quiz-winners.md) to see if you made it!!
+!update. quiz winners announced. check out the [quiz-winners.md](https://github.com/abdibrokhim/Final-Quiz.-Hack-the-Future-AI-Open-Source-Hackathon/blob/main/quiz-winners.md) to see if you made it!! NO LONGER ACCEPTING SUBMISSIONS.
 
 🍀 GOOD LUCK 🍀
