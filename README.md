@@ -7,10 +7,17 @@ Thanks for joining us for the Hack the Future: AI & Open Source Hackathon! 🎉
 We hope you had a great time exploring new ideas and building cool projects. Now, it's time to relax and have some fun with our final chill quiz.
 
 The quiz is super simple. Steps to play:
-0. Clone this repository.
+
+0. Clone this repository:
+```bash
+https://github.com/abdibrokhim/Final-Quiz.-Hack-the-Future-AI-Open-Source-Hackathon.git
+```
+
 1. Go to the [quiz.md](https://github.com/abdibrokhim/Final-Quiz.-Hack-the-Future-AI-Open-Source-Hackathon/blob/main/quiz.md).
+
 2. Replace the placeholders `<project_name>` with your guesses.
-3. Create an issue. 
+
+3. Create *New Issue*.
 
 Title: `<your_name>` Quiz Submission.
 
