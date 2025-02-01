@@ -24,3 +24,5 @@ Title: `<your_name>` Quiz Submission.
 Description: I'm done with the quiz! 🚀. Then below *copy/paste* the updated list.
 
 Confusing? Here's an example: [Click Me](https://github.com/abdibrokhim/Final-Quiz.-Hack-the-Future-AI-Open-Source-Hackathon/issues/1#issue-2825213252)
+
+🍀 GOOD LUCK 🍀
