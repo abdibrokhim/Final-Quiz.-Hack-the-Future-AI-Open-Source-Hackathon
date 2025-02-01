@@ -28,4 +28,4 @@ VizAI-DataInsights_&_Visualisation_Assistant
 Beyond Sight  
 Corruption Complaint Analyzer
 
-> **Note:** This list is just a chill of all accepted projects list. Order is not based on any ranking.
+> **Note:** This list is just a chill list of all accepted projects. Order is NOT based on any ranking.

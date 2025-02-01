@@ -25,4 +25,6 @@ Description: I'm done with the quiz! 🚀. Then below *copy/paste* the updated l
 
 Confusing? Here's an example: [Click Me](https://github.com/abdibrokhim/Final-Quiz.-Hack-the-Future-AI-Open-Source-Hackathon/issues/1#issue-2825213252)
 
+> to help you out, here's a list of all accepted projects: [Click Me](https://github.com/abdibrokhim/Final-Quiz.-Hack-the-Future-AI-Open-Source-Hackathon/blob/main/tip.md)
+
 🍀 GOOD LUCK 🍀
